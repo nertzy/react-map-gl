@@ -781,7 +781,7 @@
   dependencies:
     "@babel/helper-plugin-utils" "^7.12.13"
 
-"@babel/plugin-transform-spread@7.12.1", "@babel/plugin-transform-spread@^7.12.1":
+"@babel/plugin-transform-spread@^7.12.1":
   version "7.12.1"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-spread/-/plugin-transform-spread-7.12.1.tgz#527f9f311be4ec7fdc2b79bb89f7bf884b3e1e1e"
   integrity sha512-vuLp8CP0BE18zVYjsEBZ5xoCecMK6LBMMxYzJnh01rxQRvhNhH1csMMmBfNo5tGpGO+NhdSNW2mzIvBu3K1fng==
@@ -834,7 +834,7 @@
     "@babel/helper-create-regexp-features-plugin" "^7.12.13"
     "@babel/helper-plugin-utils" "^7.12.13"
 
-"@babel/preset-env@7.12.11", "@babel/preset-env@^7.12.1":
+"@babel/preset-env@^7.12.1":
   version "7.12.11"
   resolved "https://registry.yarnpkg.com/@babel/preset-env/-/preset-env-7.12.11.tgz#55d5f7981487365c93dbbc84507b1c7215e857f9"
   integrity sha512-j8Tb+KKIXKYlDBQyIOy4BLxzv1NUOwlHfZ74rvW+Z0Gp4/cI2IMDPBWAgWceGcE7aep9oL/0K9mlzlMGxA8yNw==
@@ -9303,9 +9303,9 @@ ip-regex@^2.1.0:
   integrity sha1-+ni/XS5pE8kRzp+BnuUUa7bYROk=
 
 ip@^1.1.0, ip@^1.1.5:
-  version "1.1.5"
-  resolved "https://registry.yarnpkg.com/ip/-/ip-1.1.5.tgz#bdded70114290828c0a039e72ef25f5aaec4354a"
-  integrity sha1-vd7XARQpCCjAoDnnLvJfWq7ENUo=
+  version "1.1.9"
+  resolved "https://registry.yarnpkg.com/ip/-/ip-1.1.9.tgz#8dfbcc99a754d07f425310b86a99546b1151e396"
+  integrity sha512-cyRxvOEpNHNtchU3Ln9KC/auJgup87llfQpQ+t5ghoC/UhL16SWzbueiCsdTnWmqAWl7LadfuwhlqmtOaqMHdQ==
 
 ipaddr.js@1.9.1, ipaddr.js@^1.9.0:
   version "1.9.1"
